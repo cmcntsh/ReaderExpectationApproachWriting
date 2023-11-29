@@ -56,9 +56,19 @@ These notes come from the text Expectations: Teaching Writing from the Reader's 
 * Four key words of the reader expectation approach: expectation, structure, substance, context.
 * Advice: **"Whose story? + backwards link = context"** p. 95
 * The topic position usually extends until the grammatical subject is reached.
-* Reader expectation: **"Readers expect that materials to the left contextualizes anything that comes to its right. Readers expect that the occupants of the topic position contectualize the reader for the rest of the sentence."** p. 101
+* Reader expectation: **"Readers expect that materials to the left contextualize anything that comes to its right. Readers expect that the occupants of the topic position contextualize the reader for the rest of the sentence."** p. 101
 * Reader expectation: **"Today's readers of American English expect to find the most important information of a sentence located in a stress position."** p. 102
 * Most English sentences are read with the expectation that the most important information will come at the end.
+* You can combine multiple items in the stress position at the end of a sentence by creating a numbered list.
+* Reader expectation: **"Contemporary readers of American English sentences expect to find the most important information in a stress position. A stress position is any moment of full syntactic closure."** p. 108
+* The colon has two main uses. In both instances, what precedes the colon should be able to be an independent sentence. What follows the colon redefines what preceded it. The second clause is capitalized. The other use of the colon is to introduce a list of examples. The second clause after the colon clarifies.
+* The semicolon is used where two clauses need to be connected in the same syntactic unit. The second clause is more important than the first and adds complexity.
+* The major punctuation marks that create stress points are the colon, the semicolon, and the period. The stress point is the end of the clause where the punctuation is used when full syntactic closure is achieved.
+* Advice: **"A sentence is too long when it contains more viable candidates for Stress positions than it has Stress positions. A sentence is too short when it contains no viable candidates for the Stress position."** p. 112
+* Advice: **"Fill every stress position with something stressworthy; and ensure that everything stressworthy occupies a stress position."** p. 113
+* Advice: **"You can use underlines for words to add stress when that work is difficult to move to the stress position because of grammar."** p. 118
+* Nouns carry more weight than pronouns.
+* Structural arrangements carries 85% of stress. Word choice carries 15%.
 
 ## Paragraph-related Information
 
