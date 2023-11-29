@@ -70,7 +70,17 @@ These notes come from the text Expectations: Teaching Writing from the Reader's 
 * Nouns carry more weight than pronouns.
 * Structural arrangements carries 85% of stress. Word choice carries 15%.
 
-## Paragraph-related Information
+## Using Topic/Stress to Develop the Paragraph
+
+### Revising sentences
+
+* Which piece of new information deserves the most emphasis?
+* How to move that to the stress position?
+* Whose story is each sentence?
+* Which pieces of old information connect the sentence backward to previous discourse?
+* How to move that information to the topic position?
+
+* Advice: **"The stress position of a sentence that ends a document should usually afford the reader a full sense of closure."** p. 160 **"The stress position that ends a segment or section of a document either should produce a document-ending kind of closure or should perform a more subtle two-stranded task -- bringing closure to the present section while leaning forward to introduce or link to the approaching section."** p. 160
 
 ## ChatGPT Questions about Writing
 
