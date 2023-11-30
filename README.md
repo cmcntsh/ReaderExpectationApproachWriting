@@ -77,22 +77,24 @@ Dr. Gopen has several bold offsets describing reader expectations scattered thro
  
 ### Paper revision steps and strategies
 
-* Which piece of new information deserves the most emphasis?
-* How to move that to the stress position?
-* Whose story is each sentence?
-* Which pieces of old information connect the sentence backward to previous discourse?
-* How to move that information to the topic position?
-* Reread the prose several times, looking at each major reader expectation separately.
-* look at the verbs of each sentence in the paragraph
-* are verbs weak or strong (do the verbs articulate THE action of the sentence?)
-* look at subject-verb and verb-complement separations
-* Does the opic position of each sentence has the correct entity for the intended story?
-* Does each sentence has the old information needed for the link backward in the Topic position?
-* Is stressworthy information in the stress positions (period, semicolon, colon)?
-* Determine if topic changing or topic stringing is going on. Does the relationship between sentence beginnings direct the reader's attention as intended?
-* Is the paragraph's issue in the first one to three sentences?
-* Does the paragraph have a point? Is it articulated in the correct place?
-* If the paragraph is narrative and doesn't have a point, is that indicated in the first sentence or two?
+* Some general questions while revising:
+  * In sentences, which piece of new information deserves the most emphasis?
+  * How do you move that stressworthy information to the stress position?
+  * Whose story is being told in each sentence?
+  * Which pieces of old information connect the sentence backward to the previous discourse?
+  * How do you move that information to the topic position?
+* Steps to revise a piece of writing:
+  * Reread the prose several times, looking at each major reader expectation separately.
+  * Look at the verbs of each sentence in the paragraph.
+  * Determine if those verbs are weak or strong. (Strong verbs articulate the REAL action of the sentence the author intends.)
+  * Look at subject-verb and verb-complement separations. (Long subject-verb separations make the sentence hard to interpret for the reader.)
+  * Does the topic position of each sentence have the correct entity for the intended story?
+  * Does each sentence have the old information needed for the link backward in the Topic position?
+  * Is stressworthy information in the stress positions? (Just before a period, semicolon, or colon)
+  * Determine if topic changing or topic stringing is going on. Does the relationship between sentence beginnings direct the reader's attention as intended?
+  * Is the paragraph's issue in the first one to three sentences?
+  * Does the paragraph have a point? Is it articulated in the correct place?
+  * If the paragraph is narrative and doesn't have a point, is that indicated in the first sentence or two?
 
 ### Some interesting thoughts
 
@@ -100,7 +102,7 @@ Dr. Gopen has several bold offsets describing reader expectations scattered thro
 * There are no firm rules.
 * This method focuses on the reader.
 * Most readers go through the same interpretation process most of the time.
-* On why it's important to craft your writing to influence the reader: "A major part of growing up is the transformation from being someone who merely responds and obeys to being someone who chooses and controls." p. 184
+* On why it's important to craft your writing to influence the reader: "A major part of growing up is the transformation from being someone who merely responds and obeys to being someone who chooses and controls." p. 184 (I'm trying to teach students to take control of their writing.)
 * "Placement of information highly influences what kind of synthesis a reader will experience in trying to form information into idea." p. 207
 
 ## Preface
