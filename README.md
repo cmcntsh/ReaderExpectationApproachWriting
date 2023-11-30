@@ -1,6 +1,6 @@
 # Notes on the Reader Expectation Approach to Writing
 
-These notes come from the text Expectations: Teaching Writing from the Reader's Perspective by George D. Gopen.
+These notes come from the book *Expectations: Teaching Writing from the Reader's Perspective* by George D. Gopen.
 
 ## Some Consolidated Information 
 
