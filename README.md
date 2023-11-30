@@ -124,6 +124,18 @@ These notes come from the text Expectations: Teaching Writing from the Reader's 
 * The Issue refers to the intellectual geographic boundaries within which the discussion will wander; the Point is the place within those boundaries at which we wish the reader to arrive. p 212
 * There are two locations in a paragraph readers expect to find the point. If the point is not found in the first, readers will look for it in the second.
 * It's possible to leave the point unarticulated, but risky. The times to NOT state the point are when the point is EXTREMELY clear, when more arguments still need to be presented, when you intend to present a question without articulating an answer.
+* coda - a (often pithy) summary at the end of a section
+* Reader expectation: **"Readers expect the point sentence in a paragraph (if any) to arrive at one of two places: either (1) as the last sentence of the issue; or (2) as the last sentence of the discussion."** p. 222
+* Reader expectation restated: **"Readers expect the point of a paragraph to be made explicit either just before the discussion of it begins or just as the discussion of it ends."** p. 223
+
+Paragraph structure so far:
+[Issue: one, two, or three sentences]
+[Possible point]
+[Discussion can be short or long]
+[Possible point]
+[Possible coda]
+
+
 
 ## Purpose
 
