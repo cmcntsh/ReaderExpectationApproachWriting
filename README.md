@@ -2,6 +2,107 @@
 
 These notes come from the text Expectations: Teaching Writing from the Reader's Perspective by George D. Gopen.
 
+## Some Consolidated Information 
+
+Dr. Gopen has several bold offsets describing reader expectations scattered throughout his book. I'm collecting the ones I noted here for quick review, along with some of his suggestions about how to write given the reader's expectations.
+
+### Statements of reader expectations and some associated advice
+
+* Reader expectation: **"Readers of English have reflectively fixed expectations of where in the structure of any unit of discourse to expect the arrival of certain kinds of substance."** p. 11
+  * Advice: Don't violate reader expectations unless doing so intentionally for a specific rhetorical effect.
+  * Advice: **"Whenever possible, try to locate the various types of substancee in the structural locations where readers expect those types of substance to arrive."** p. 78
+* Reader expectation: **"Readers expect the action of a sentence to be articulated by the verb."** p. 25
+  * Advice: Be careful not to hide the true action of a sentence in nominalizations.
+  * Advice: **"Usually express the action of a sentence as a verb."** p. 32
+  * Advice: **"Usually use verbs only for expressing actions."** p. 33
+* Reader expectation: **"Readers expect every grammatical subject will be followed almost immediately by its verb."** p. 58
+* Reader expectation: **"Readers tend to read a clause -- or a one-clause sentence -- as being the story of whoever or whatever shows up first."** p. 81
+* Reader expectation: **"In a multiclause sentence, readers tend to read the entire sentence as the story of whoever or whatever shows up first in the main clause."** p. 88
+* Reader expectation: **"Readers expect the material at the beginning of a sentence to provide a connection backward to the sentence that precedes it."** p. 90
+* Reader expectation: **"Readers expect that materials to the left contextualize anything that comes to its right. Readers expect that the occupants of the topic position contextualize the reader for the rest of the sentence."** p. 101
+  * Advice: **"Whose story? + backwards link = context"** p. 95
+* Reader expectation: **"Today's readers of American English expect to find the most important information of a sentence located in a stress position."** p. 102
+* Reader expectation: **"Contemporary readers of American English sentences expect to find the most important information in a stress position. A stress position is any moment of full syntactic closure."** p. 108
+  * Advice: The colon has two main uses. In both instances, what precedes the colon should be able to be an independent sentence. What follows the colon redefines what preceded it. The second clause is capitalized. The other use of the colon is to introduce a list of examples. The second clause after the colon clarifies.
+  * Advice: The semicolon is used where two clauses need to be connected in the same syntactic unit. The second clause is more important than the first and adds complexity.
+  * Advice: The major punctuation marks that create stress points are the colon, the semicolon, and the period. The stress point is the end of the clause where the punctuation is used when full syntactic closure is achieved.
+  * Advice: **"A sentence is too long when it contains more viable candidates for Stress positions than it has Stress positions. A sentence is too short when it contains no viable candidates for the Stress position."** p. 112
+  * Advice: **"Fill every stress position with something stressworthy; and ensure that everything stressworthy occupies a stress position."** p. 113
+  * Advice: **"You can use underlines for words to add stress when that work is difficult to move to the stress position because of grammar."** p. 118
+  * Nouns carry more weight than pronouns.
+  * Structural arrangements carries 85% of stress. Word choice carries 15%.
+  * Multiple uses of the stress position:
+    * Advice: **"The stress position of a sentence that ends a document should usually afford the reader a full sense of closure."** p. 160
+    * Advice: **"The stress position that ends a segment or section of a document either should produce a document-ending kind of closure or should perform a more subtle two-stranded task -- bringing closure to the present section while leaning forward to introduce or link to the approaching section."** p. 160
+    * Use the stress position to indicate a change in topic: 1) Place new information in the stress position. 2) New information is not self-explanatory. This indicates to the reader that more explanation is coming.
+    * Muliple Strands (tells a story) - the subject of the story may be in the topic position for several sentences and new information about the story in the stress position for those.
+    * Epistrophic Emphasis (repeat same phrase) - Repeat the same word or phrase in the stress position for several sentences. (Should be used infrequently.)
+    * Intentional Anticlimax - Put less important information in the stress position. (Takes the edge off emphasis of bad news.)
+  * Patterns related to the Topic position over mulitple sentences
+    * Topic Changing (Chaining) - The key word in the topic position refers back to the same key word in the stress position of the previous sentence. (Produces a domino effect. Focuses on links and connectedness.)
+    * Topic Stringing - The topic remains the same for several sentences. Allows complex information to be conveyed about the same topic.
+    * **"Readers need more than just the building blocks of information; they need the instructions for assembly."** p. 169
+    * The topic position indicates "who's story". Switching subjects in the topic position often in a paragraph can make it feel disjointed.
+    * **"The reader will know to value one lexical string over all the others if the lexical string is also the topical string."** p. 176
+    * **"Construct topic strings when you wish to develop a point of view or an argument continuously, from its basis to its conclusion"** p. 178
+* Some points about paragraphs
+  * For readers, the unit of thought is the paragraph. Nicely written sentences are not enough.
+  * The five-sentence paragraph structure is too rigid for professional writing.
+  * Paragraph's internal structure and place in larger context of document should be considered. Reader's interpret a paragraph as they read, sentence by sentence. We need to understand the distinction between the issue (topic), the point (intellectual claim), and the purpose (function performed in the discourse as a whole).
+  * Paragraph Issue (What we normally think of as the topic.)
+    * Whatever shows up in the first one to three sentences of a paragraph will be perceived as the paragraph issue by readers.
+    * What does a paragraph do? It does one or more of the following. It offers cohesion. It presents unity. It indicates purpose. It raises an issue. It makes a point. It tells a story. It generates development. It provides coherence. It creates shape. p. 207
+    * Reader expectations for paragraphs are similar to expectations for sentences. "Whose story is it?" is largely determined by what shows up at the beginning.
+    * Narrative paragraphs don't need to articulate a point because they are establishing knowledge that will be supportive of points made later in the text. p. 211
+  * Paragraph point
+    * First paragraphs: readers expect the point of the opening paragraph to arrive at the end.
+    * Last paragraphs: readers also expect the point of a concluding paragraph to arrive at the end.
+    * Most medial paragraphs: readers expect the point at the beginning of the discussion.
+    * Medial paragraphs with clear and dramatic point: point is at the end for dramatic effect.
+    * Medial paragraphs with complexity and dramatic point: point is at the beginning of the discussion AND at the end.
+    * One-sentence paragraphs: Should fill all rhetorical requirements for a paragraph - clearly stated issue, clearly ascertainable point, sufficient discussion to establish the point. (The issue can be stated in one sentence. The issue and the point are the same. All the discussion that supports the Point must have happened already in previous paragraphs or will happen immediately after the single-sentence paragraph.)
+  * Paragraph purpose
+    * Issue and Point look at the internal structure of paragraphs. Purpose is the role the paragraph plays in the larger unit of discourse. Purpose is the relationship between the current paragraph and the other paragraphs surrounding it before and after.
+    * The purpose is a bit more nebulous to determine and articulate because it depends on the reader's perception of what is going on rhetorically in the rest of the work.
+    * Writing and reading are acts of interpretation. The act of writing forces one through the act of interpretation. Writing and thinking can not be clearly separated from each other; nor should writing and reading. p. 236
+  * Connections between paragraphs
+    * In both sentences and paragraphs, the reader is looking for the connection between what came before and what is coming after. The options to help supply this is 1) signaling forward at the end of the previous paragraph; 2) motioning backward at the beginning of the new unit; or 3) doing both. p. 251
+    * At the sentence level, the occupant of the stress position of the previous sentence often be the future linkage. But this is not necessary. Any important word in a sentence can become the old information in the topic position and take over the storyline.
+    * Typical expectations of the reader for a new paragraph: 1) It may begin where the previous paragraph left off. 2) It might continue to develop the issue of the previous paragraph and start from where the previous paragraph started. 3) It might pick a detail from the previous paragraph to expand upon. 4) It might shift to a topic the reader has not been led to expect. (dramatic) Readers like to be told ASAP which of these is happening.
+    * It's common to link back to the issue or the point of the previous paragraph.
+* Generalizations of reader expectations:
+  * Readers wish to be contextualized at the beginning of discourse units. (sentences, paragraphs)
+  * Readers will look for context in the locations expected. (Topic position of sentence, Issue position of paragraph)
+  * Readers have a great need for closure. They will give natural emphasis to the end of a unit of discourse. (End of sentence, End of first and last paragraphs)
+ 
+### Paper revision steps and strategies
+
+* Which piece of new information deserves the most emphasis?
+* How to move that to the stress position?
+* Whose story is each sentence?
+* Which pieces of old information connect the sentence backward to previous discourse?
+* How to move that information to the topic position?
+* Reread the prose several times, looking at each major reader expectation separately.
+* look at the verbs of each sentence in the paragraph
+* are verbs weak or strong (do the verbs articulate THE action of the sentence?)
+* look at subject-verb and verb-complement separations
+* Does the opic position of each sentence has the correct entity for the intended story?
+* Does each sentence has the old information needed for the link backward in the Topic position?
+* Is stressworthy information in the stress positions (period, semicolon, colon)?
+* Determine if topic changing or topic stringing is going on. Does the relationship between sentence beginnings direct the reader's attention as intended?
+* Is the paragraph's issue in the first one to three sentences?
+* Does the paragraph have a point? Is it articulated in the correct place?
+* If the paragraph is narrative and doesn't have a point, is that indicated in the first sentence or two?
+
+### Some interesting thoughts
+
+* Meaning comes from context.
+* There are no firm rules.
+* This method focuses on the reader.
+* Most readers go through the same interpretation process most of the time.
+* On why it's important to craft your writing to influence the reader: "A major part of growing up is the transformation from being someone who merely responds and obeys to being someone who chooses and controls." p. 184
+* "Placement of information highly influences what kind of synthesis a reader will experience in trying to form information into idea." p. 207
+
 ## Preface
 
 * Meaning comes from context.
@@ -45,14 +146,14 @@ These notes come from the text Expectations: Teaching Writing from the Reader's 
 
 ## Topic and Stress Positions
 
-* Advice: **"Whenever possible, try to locate the various types of substancee in teh structural locations where readers expect those types of substance to arrive."** p. 78
+* Advice: **"Whenever possible, try to locate the various types of substancee in the structural locations where readers expect those types of substance to arrive."** p. 78
 * Reader expectation: **"Readers tend to read a clause -- or a one-clause sentence -- as being the story of whoever or whatever shows up first."** p. 81
 * ALL interpretation depends on context.
 * Reader expectation: **"In a multiclause sentence, readers tend to read the entire sentence as the story of whoever or whatever shows up first in the main clause."** p. 88
 * The way sentences connect with each other is very important.
 * Two important structural positions in a sentence are the topic position and the stress position.
 * Judge a sentence by how well it connects with its neighbors and sends instructions on how to value its components.
-* Reader expectation: **"Readers expect the material at the beginning of a sentence to prvide a connection backward to the sentence that precedes it."** p. 90
+* Reader expectation: **"Readers expect the material at the beginning of a sentence to provide a connection backward to the sentence that precedes it."** p. 90
 * Four key words of the reader expectation approach: expectation, structure, substance, context.
 * Advice: **"Whose story? + backwards link = context"** p. 95
 * The topic position usually extends until the grammatical subject is reached.
@@ -114,7 +215,7 @@ These notes come from the text Expectations: Teaching Writing from the Reader's 
 * Whatever shows up in the first one to three sentences of a paragraph will be perceived as the paragraph issue by readers.
 * "Placement of information highly influences what kind of synthesis a reader will experience in trying to form information into idea." p. 207
 * The shape of a paragraph should not be predetermined. The shape should be suggested by the shape and complexity of the thought being presented.
-* What does a paragraph do? It does one or more of the following. It offers cohesion. It presents unity. It indicates purpose. It raises and issue. It makes a point. It tells a story. It generates development. It provides coherence. It creates shape. p. 207
+* What does a paragraph do? It does one or more of the following. It offers cohesion. It presents unity. It indicates purpose. It raises an issue. It makes a point. It tells a story. It generates development. It provides coherence. It creates shape. p. 207
 * Reader expectations for paragraphs are similar to expectations for sentences. "Whose story is it?" is largely determined by what shows up at the beginning.
 * Narrative paragraphs don't need to articulate a point because they are establishing knowledge that will be supportive of points made later in the text. p. 211
 
@@ -178,17 +279,17 @@ Paragraph structure so far:
 * Generalizations of reader expectations:
 * Readers wish to be contextualized at the beginning of discourse units. (sentences, paragraphs)
 * Readers will look for context in the locations expected. (Topic position of sentence, Issue position of paragraph)
-* Readers have great need for closure. They will give natural emphasis to the end of a unit of discourse. (End of sentence, End of first and last paragraphs)
+* Readers have a great need for closure. They will give natural emphasis to the end of a unit of discourse. (End of sentence, End of first and last paragraphs)
 
 ### Initial Procedure for Employing REA
 
 * Which of the writer's rhetorical habits are already helpful to the reader and which are not.
 * Reread the prose several times, looking at each major reader expectation separately.
-* look at verbs
-* verbs weak or strong (do the verbs articulate THE action of the sentence?)
-* subject-verb and verb-complement separations
-* Topic position of each sentence has the correct entity for the intended story?
-* Each sentence has the old information needed for the link backward in the Topic position?
+* look at the verbs of each sentence in the paragraph
+* are verbs weak or strong (do the verbs articulate THE action of the sentence?)
+* look at subject-verb and verb-complement separations
+* Does the opic position of each sentence has the correct entity for the intended story?
+* Does each sentence has the old information needed for the link backward in the Topic position?
 * Is stressworthy information in the stress positions (period, semicolon, colon)?
 * Determine if topic changing or topic stringing is going on. Does the relationship between sentence beginnings direct the reader's attention as intended?
 * Is the paragraph's issue in the first one to three sentences?
