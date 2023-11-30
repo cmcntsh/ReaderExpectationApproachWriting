@@ -108,7 +108,7 @@ These notes come from the text Expectations: Teaching Writing from the Reader's 
 * The five-sentence paragraph structure is too rigid for professional writing.
 * Paragraph's internal structure and place in larger context of document should be considered. Reader's interpret a paragraph as they read, sentence by sentence. We need to understand the distinction between the issue (topic), the point (intellectual claim), and the purpose (function performed in the discourse as a whole).
 
-## Issue
+### Issue
 
 * Context controls meaning. Whatever shows up first is perceived by the reader as the topic.
 * Whatever shows up in the first one to three sentences of a paragraph will be perceived as the paragraph issue by readers.
@@ -118,7 +118,7 @@ These notes come from the text Expectations: Teaching Writing from the Reader's 
 * Reader expectations for paragraphs are similar to expectations for sentences. "Whose story is it?" is largely determined by what shows up at the beginning.
 * Narrative paragraphs don't need to articulate a point because they are establishing knowledge that will be supportive of points made later in the text. p. 211
 
-## Point
+### Point
 
 * In professional prose, the issue being discussed and the point being made in a paragraph are not always the same thing.
 * The Issue refers to the intellectual geographic boundaries within which the discussion will wander; the Point is the place within those boundaries at which we wish the reader to arrive. p 212
@@ -128,16 +128,76 @@ These notes come from the text Expectations: Teaching Writing from the Reader's 
 * Reader expectation: **"Readers expect the point sentence in a paragraph (if any) to arrive at one of two places: either (1) as the last sentence of the issue; or (2) as the last sentence of the discussion."** p. 222
 * Reader expectation restated: **"Readers expect the point of a paragraph to be made explicit either just before the discussion of it begins or just as the discussion of it ends."** p. 223
 
-Paragraph structure so far:
+Paragraph structure so far:  
 [Issue: one, two, or three sentences]  
 [Possible point]  
 [Discussion can be short or long]  
 [Possible point]  
 [Possible coda]  
 
+#### Point Placement and Paragraph Types
 
+* First paragraphs: readers expect the point of the opening paragraph to arrive at the end.
+* Last paragraphs: readers also expect the point of a concluding paragraph to arrive at the end.
+* Most medial paragraphs: readers expect the point at the beginning of the discussion.
+* Medial paragraphs with clear and dramatic point: point is at the end for dramatic effect.
+* Medial paragraphs with complexity and dramatic point: point is at the beginning of the discussion AND at the end.
+* One-sentence paragraphs: Should fill all rhetorical requirements for a paragraph - clearly stated issue, clearly ascertainable point, sufficient discussion to establish the point. (The issue can be stated in one sentence. The issue and the point are the same. All the discussion that supports the Point must have happened already in previous paragraphs or will happen immediately after the single-sentence paragraph.)
 
-## Purpose
+### Purpose
+
+* Issue and Point look at the internal structure of paragraphs. Purpose is the role the paragraph plays in the larger unit of discourse. Purpose is the relationship between the current paragraph and the other paragraphs surrounding it before and after.
+* The purpose is a bit more nebulous to determine and articulate because it depends on the reader's perception of what is going on rhetorically in the rest of the work.
+* Writing and reading are acts of interpretation. The act of writing forces one through the act of interpretation. Writing and thinking can not be clearly separated from each other; nor should writing and reading. p. 236
+
+### The Writer's Power to Shape and Change Reader Expectations Concerning Paragraph Structure
+
+* These expectations are what is most common. You can write to other expectations, but it risks reader misinterpretation.
+* You can use metadiscourse to tell the reader what is going on. (Writing about the writing instead of writing about the topic.)
+* Parallel construction: You can both use it and violate it for effect.
+
+### Pointless Paragraphs
+
+* Some paragraphs may just be narrative, so they don't need to have a point.
+* The writer may intend for the reader to interpret the point, but this risks misinterpretation by the reader.
+* The writer has not thought through things enough to supply the point to the reader.
+
+### Connections Between Paragraphs
+
+* In both sentences and paragraphs, the reader is looking for the connection between what came before and what is coming after. The options to help supply this is 1) signaling forward at the end of the previous paragraph; 2) motioning backward at the beginning of the new unit; or 3) doing both. p. 251
+* At the sentence level, the occupant of the stress position of the previous sentence often be the future linkage. But this is not necessary. Any important word in a sentence can become the old information in the topic position and take over the storyline.
+* Typical expectations of the reader for a new paragraph: 1) It may begin where the previous paragraph left off. 2) It might continue to develop the issue of the previous paragraph and start from where the previous paragraph started. 3) It might pick a detail from the previous paragraph to expand upon. 4) It might shift to a topic the reader has not been led to expect. (dramatic) Readers like to be told ASAP which of these is happening.
+* It's common to link back to the issue or the point of the previous paragraph.
+
+### A Note on Whole Documents
+
+* Professional fields often define the structure of whole documents. It is not necessary to discuss those requirements at length when discussing the mechanics of writing.
+
+## Learning and Teaching Reader Expectation Approach
+
+* Generalizations of reader expectations:
+* Readers wish to be contextualized at the beginning of discourse units. (sentences, paragraphs)
+* Readers will look for context in the locations expected. (Topic position of sentence, Issue position of paragraph)
+* Readers have great need for closure. They will give natural emphasis to the end of a unit of discourse. (End of sentence, End of first and last paragraphs)
+
+### Initial Procedure for Employing REA
+
+* Which of the writer's rhetorical habits are already helpful to the reader and which are not.
+* Reread the prose several times, looking at each major reader expectation separately.
+* look at verbs
+* verbs weak or strong (do the verbs articulate THE action of the sentence?)
+* subject-verb and verb-complement separations
+* Topic position of each sentence has the correct entity for the intended story?
+* Each sentence has the old information needed for the link backward in the Topic position?
+* Is stressworthy information in the stress positions (period, semicolon, colon)?
+* Determine if topic changing or topic stringing is going on. Does the relationship between sentence beginnings direct the reader's attention as intended?
+* Is the paragraph's issue in the first one to three sentences?
+* Does the paragraph have a point? Is it articulated in the correct place?
+* If the paragraph is narrative and doesn't have a point, is that indicated in the first sentence or two?
+
+### Teaching
+
+* Teach inductively - walk through examples first, then state the principle
 
 ## ChatGPT Questions about Writing
 
