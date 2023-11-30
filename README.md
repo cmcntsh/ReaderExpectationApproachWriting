@@ -130,9 +130,13 @@ These notes come from the text Expectations: Teaching Writing from the Reader's 
 
 Paragraph structure so far:
 [Issue: one, two, or three sentences]
+
 [Possible point]
+
 [Discussion can be short or long]
+
 [Possible point]
+
 [Possible coda]
 
 
