@@ -129,15 +129,11 @@ These notes come from the text Expectations: Teaching Writing from the Reader's 
 * Reader expectation restated: **"Readers expect the point of a paragraph to be made explicit either just before the discussion of it begins or just as the discussion of it ends."** p. 223
 
 Paragraph structure so far:
-[Issue: one, two, or three sentences]
-
-[Possible point]
-
-[Discussion can be short or long]
-
-[Possible point]
-
-[Possible coda]
+[Issue: one, two, or three sentences]  
+[Possible point]  
+[Discussion can be short or long]  
+[Possible point]  
+[Possible coda]  
 
 
 
