@@ -28,7 +28,7 @@ Dr. Gopen has several bold offsets describing reader expectations scattered thro
   * Advice: The major punctuation marks that create stress points are the colon, the semicolon, and the period. The stress point is the end of the clause where the punctuation is used when full syntactic closure is achieved.
   * Advice: **"A sentence is too long when it contains more viable candidates for Stress positions than it has Stress positions. A sentence is too short when it contains no viable candidates for the Stress position."** p. 112
   * Advice: **"Fill every stress position with something stressworthy; and ensure that everything stressworthy occupies a stress position."** p. 113
-  * Advice: **"You can use underlines for words to add stress when that work is difficult to move to the stress position because of grammar."** p. 118
+  * Advice: **"You can use underlines for words to add stress when that word is difficult to move to the stress position because of grammar."** p. 118
   * Nouns carry more weight than pronouns.
   * Structural arrangements carries 85% of stress. Word choice carries 15%.
   * Multiple uses of the stress position:
@@ -104,6 +104,38 @@ Dr. Gopen has several bold offsets describing reader expectations scattered thro
 * Most readers go through the same interpretation process most of the time.
 * On why it's important to craft your writing to influence the reader: "A major part of growing up is the transformation from being someone who merely responds and obeys to being someone who chooses and controls." p. 184 (I'm trying to teach students to take control of their writing.)
 * "Placement of information highly influences what kind of synthesis a reader will experience in trying to form information into idea." p. 207
+
+### A more graphical depiction of suggested paragraph organization
+
+First paragraph in a paper:  
+[Issue: one, two, or three sentences]  
+[Discussion can be short or long]  
+[Expected point]  
+
+Middle paragraph in a paper (Type 1 - most common):  
+[Issue: one, two, or three sentences]  
+[Possible point - last sentence of Issue]  
+[Discussion can be short or long]  
+[Possible point]  
+[Possible coda]  
+
+Middle paragraph in a paper (Type 2 - has dramatic point):  
+[Issue: one, two, or three sentences]  
+[Discussion can be short or long]  
+[Point at end for dramatic effect]  
+[Possible coda]  
+
+Middle paragraph in a paper (Type 3 - paragraph has complexity and dramatic point):  
+[Issue: one, two, or three sentences]  
+[Point at beginning and end]  
+[Discussion can be short or long]  
+[Point at beginning and end]  
+[Possible coda]  
+
+Last paragraph in a paper:  
+[Issue: one, two, or three sentences]  
+[Discussion can be short or long]  
+[Expected point]  
 
 ## Preface
 
