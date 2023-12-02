@@ -78,11 +78,12 @@ Dr. Gopen has several bold offsets describing reader expectations scattered thro
 ### Paper revision steps and strategies
 
 * Some general questions while revising:
-  * In sentences, which piece of new information deserves the most emphasis?
-  * How do you move that stressworthy information to the stress position?
-  * Whose story is being told in each sentence?
-  * Which pieces of old information connect the sentence backward to the previous discourse?
-  * How do you move that information to the topic position?
+  * In sentences, which piece of new information deserves the most emphasis? (How do you move that stressworthy information to the Stress position?)
+  * Whose story is being told in the paragraph? (How do you move that information to the Issue position in the paragraph?)
+  * Whose story is being told in each sentence? (How do you move that information to the Topic position in the sentence?)
+  * Is the main action in the sentence being told by the verb? (Do you need to switch from a nominalization to an active verb?)
+  * Which pieces of old information connect the sentence backward to the previous discourse? (How do you move that information to the Topic position?)
+  * Are sentences in a paragraph using topic changing or topic stringing?
 * Steps to revise a piece of writing:
   * Reread the prose several times, looking at each major reader expectation separately.
   * Look at the verbs of each sentence in the paragraph.
