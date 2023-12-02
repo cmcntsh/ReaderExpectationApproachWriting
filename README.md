@@ -113,30 +113,30 @@ First paragraph in a paper:
 [Expected point]  
 
 Middle paragraph in a paper (Type 1 - most common):  
-[*Possible reach back to connect to preceding material*]  
+*[Possible reach back to connect to preceding material]*  
 [Issue: one, two, or three sentences]  
 [Possible point - last sentence of Issue]  
 [Discussion can be short or long]  
 [Possible point]  
-[*Possible coda*]  
-[*Possible reach forward to indicate things to come*]  
+*[Possible coda]*  
+*[Possible reach forward to indicate things to come]*  
 
 Middle paragraph in a paper (Type 2 - has dramatic point):  
-[*Possible reach back to connect to preceding material*]  
+*[Possible reach back to connect to preceding material]*  
 [Issue: one, two, or three sentences]  
 [Discussion can be short or long]  
 [Point at end for dramatic effect]  
-[*Possible coda*]  
-[*Possible reach forward to indicate things to come*]  
+*[Possible coda]*  
+*[Possible reach forward to indicate things to come]*  
 
 Middle paragraph in a paper (Type 3 - paragraph has complexity and dramatic point):  
-[*Possible reach back to connect to preceding material*]  
+*[Possible reach back to connect to preceding material]*  
 [Issue: one, two, or three sentences]  
 [Point at beginning and end]  
 [Discussion can be short or long]  
 [Point at beginning and end]  
-[*Possible coda*]  
-[*Possible reach forward to indicate things to come*]  
+*[Possible coda]*  
+*[Possible reach forward to indicate things to come]*  
 
 Last paragraph in a paper:  
 [Issue: one, two, or three sentences]  
