@@ -109,11 +109,11 @@ Dr. Gopen has several bold offsets describing reader expectations scattered thro
 
 ### The basic structure of a sentence
 
-* (Gopen, 2004b, p. 63)
 * TOPIC POSITION [the backward link; answer to the question, "whose story?"]
 * VERB [the action]
 * MIDSENTENCE [all other nonstressworthy information]
 * STRESS POSITION [that which the sentence was created to emphasize]
+* (Gopen, 2004b, p. 63)
 
 ### Use of punctuation
 
