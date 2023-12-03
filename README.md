@@ -167,6 +167,28 @@ Dr. Gopen has several bold offsets describing reader expectations scattered thro
      * When brackets are used in a direct quotation, they indicate the original words of the quote have been changed.
      * They can also be used inside parentheses to avoid the confusion of multiple parentheses nested within each other.
 * **hyphen**
+  * The hyphen joins and separates at the same time.
+  * Many words that once were hyphenated have become joined into single words. This is an ongoing process that still continues.
+  * Hyphenating words helps the reader to understand more clearly what should be joined.
+  * Hyphens are also used by printers to break apart words at the end of a line for printing purposes.
+* **question mark**
+  * An interrogative word and a question mark usually raise and close a question.
+  * Indirect questions are sometimes incorrectly ended with a question mark. (An indirect question is a sentence indicating that someone asked a question.)
+  * Here are some of Gopen's suggestions on using question marks:
+    * Use it little, if at all, in formal writing.
+    * It is used more often in educational writing, letters, and emails.
+  * A rhetorical question should only be used in special circumstances:
+    * It presumes a single obvious yes or no answer.
+    * It is asked in place of making an argument when suggesting no argument is necessary.
+    * Rhetorical questions are a risky rhetorical device.
+* **artificial emphasis**
+  * Many dislike the exclamation point!
+  * The exclamation point goes beyond offering syntactic and rhetorical directions to the reader and tries to imply how the reader should feel about something.
+  * Other forms of artificial emphasis:
+    * <u>Underlining</u>
+    * **boldface**
+    * CAPITAL LETTERS
+    * *italics*
 
 ### A more graphical depiction of suggested paragraph organization
 
