@@ -1,6 +1,7 @@
 # Notes on the Reader Expectation Approach to Writing
 
-These notes come from the book *Expectations: Teaching Writing from the Reader's Perspective* by George D. Gopen.
+These notes come from the book *Expectations: Teaching Writing from the Reader's Perspective* by George D. Gopen except where indicated by a specific citation to his other work *The Sense of Structure: Writing From the Reader’s Perspective* (Gopen, 2004a; Gopen, 2004b).
+
 
 ## Some Consolidated Information 
 
@@ -106,7 +107,70 @@ Dr. Gopen has several bold offsets describing reader expectations scattered thro
 * On why it's important to craft your writing to influence the reader: "A major part of growing up is the transformation from being someone who merely responds and obeys to being someone who chooses and controls." p. 184 (I'm trying to teach students to take control of their writing.)
 * "Placement of information highly influences what kind of synthesis a reader will experience in trying to form information into idea." p. 207
 
+### The basic structure of a sentence
+
+* (Gopen, 2004b, p. 63)
+* TOPIC POSITION [the backward link; answer to the question, "whose story?"]
+* VERB [the action]
+* MIDSENTENCE [all other nonstressworthy information]
+* STRESS POSITION [that which the sentence was created to emphasize]
+
+### Use of punctuation
+
+* (Gopen, 2004b)
+* History of punctuation:
+  * Greek and Latin were written with no punctuation or spaces between words. This was possible because they both indicated grammatical relationships between words with case endings on individual words. Word order was less important in those languages. Also, delivery was often oral instead of written. This made distinguishing where one thought stopped, and another started easier. Scholars copying texts already knew the contents, so they didn't need punctuation.
+  * As written distribution became more common, the need for punctuation to help unfamiliar readers understand where to start and stop became greater. (Early punctuation in those languages differentiated the purpose of the punctuation by the height of the mark. All used the same mark.) The spread of Christianity with written language also brought about the more sophisticated use of punctuation starting around the sixth century.
+* **semicolon**
+  * least well-understood of the punctuation marks
+  * used for 1400 years
+  * common reader response - pause more than if they'd seen a comma, but less than if they'd seen a period
+  * messages of the semicolon
+    * place of full syntactic closure
+    * end of clause that can stand as an independent sentence
+    * the next clause is also an independent clause that can stand as an independent sentence
+    * the two clauses have a very close relationship with each other
+    * stress this clause, but also expect stress at the end of the next clause
+    * Main use #1 - These two clauses are two separate clauses, each with their own point to make; but together they make a point of even greater complexity and force.
+    * Secondary use #2 - It separates examples of an immediately previous statement that has ended in a colon. This is not for short, simple lists. The previous use of the semicolon is more important.
+  * **colon**
+    * What comes after the use of the colon is expected to either redefine or to exemplify that which came before it.
+    * The clause before the colon can stand on it's own as a sentence.
+    * What follows after the colon can be an independent sentence, but it will restate or redefine the first clause.
+    * Or what comes after the colon is a list of examples that, taken together, will give you a fuller way of understanding the previously stated ideas.
+    * Independent clause: Independent clause - The second clause can be capitalized or not, but Gopen encourages capitalizing it to distinguish this from a list.
+    * The colon differs from the semicolon. The semicolon suggests further expansion of the thought or a significant addition. The colon suggests the reader will hear the first thought repeated in some helpful way. Semicolon expands while colon repeats.
+    * Lists after a colon may be bullet points or numbered presented vertically. The clause before the colon should always be a full independent clause, but this grammar rule is starting to be ignored more often. Gopen discourages ignoring that rule because of the lack of a stress position at the colon. He asserts the reader will have a harder time interpreting the sentence if there is no syntactic closure at the colon. Each bullet item will receive a somewhat lower emphasis.
+    * Colons and semicolons were used a great deal more in previous centuries.
+  * **Marks to indicate interruption**
+    * All of these are loosely defined.
+    * There is a lot of variability in how each is used.
+    * **Dashes --**
+      * Gopen recommends using the double dash to preclude confusion with hyphenation.
+      * Only started being used about 300 years ago.
+      * When used once in a sentence, it is similar to the colon. It invites the reader to simultaneously separate and join the two halves of the sentence.
+      * When used as a pair, they function as parentheses or commas. They indicate an interruption in the middle of things.
+      * The colon invites the reader to maintain a constant level of intensity before and after the colon.
+      * The dash does the opposite. It raises the intensity of what follows the dash.
+    * **(Parentheses)**
+      * Parenthesis, like dashes, signal an interruption.
+      * But they signal the opposite emphasis to dashes.
+      * Parentheses lower the volume of the interruption, where dashes raise emphasis.
+      * Parentheses establish a marked difference in tone when they're used more than once in a paragraph. Multiple parenthetical statements in a paragraph can seem to speak to each other.
+      * There are no set rules on what punctuation can be used around parentheses.
+    * **Commas**
+      * Commas also signal an interruption.
+      * Unlike dashes and parentheses, commas signal an interruption in sense, but not tone. (Dashes signal an increase in tone, while parentheses signal a lowering of tone.)
+    * **[Brackets]**
+      * Unlike dashes, parentheses, or commas, square brackets indicate a change in voice.
+      * The brackets indicate that the writer is introducing his or her own voice as an author rather than the more fictional voice of the narrator.
+      * When brackets are used in a direct quotation, they indicate the original words of the quote have been changed.
+      * They can also be used inside parentheses to avoid the confusion of multiple parentheses nested within each other.
+  * **hyphen**
+
 ### A more graphical depiction of suggested paragraph organization
+
+* These diagrams are my own creations based on his descriptions (Gopen, 2004a).
 
 First paragraph in a paper:  
 [Issue: one, two, or three sentences]  
@@ -344,3 +408,8 @@ Paragraph structure so far:
 ## ChatGPT Questions about Writing
 
 * Where are the stress positions in a written sentence?
+
+## References
+
+* Gopen, G. D. (2004a). Expectations: Teaching writing from a reader’s perspective. Pearson Longman.
+* Gopen, G. D. (2004b). The sense of structure: Writing from the reader’s perspective. Pearson Longman.
