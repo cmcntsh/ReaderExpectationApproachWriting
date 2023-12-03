@@ -185,10 +185,45 @@ Dr. Gopen has several bold offsets describing reader expectations scattered thro
   * Many dislike the exclamation point!
   * The exclamation point goes beyond offering syntactic and rhetorical directions to the reader and tries to imply how the reader should feel about something.
   * Other forms of artificial emphasis:
-    * __Underlining__
+    * Underlining (There's not a good way to do that in Markdown because it's confused with hyperlinks.)
     * **boldface**
     * CAPITAL LETTERS
     * *italics*
+  * There are two main times to use artificial emphasis:
+    * Add emphasis when no natural way is available.
+    * When the writer needs to restructure the sentence to add emphasis in a better way and hasn't thought of how to do that yet. (Use of artificial emphasis is discouraged.)
+* **apostrophe**
+  * Use to form a contraction.
+  * Used to signal possession.
+* **ellipsis ...**
+  * Indicates words or sentences left out of a quotation.
+  * It may be four dots if the words were followed by a period.
+  * Omission at the end of a sentence - a space follows the last word and then four dots.
+  * Omission of an entire sentence - A period comes at the end of the sentence, and then three dots. (No space after last word.)
+* **period**
+  * A period indicates the end of a sentence and prepares a reader to be ready for the next one.
+  * A period provides a sense of closure.
+  * Problems with not using periods correctly include the sentence fragment and the run-on sentence.
+  * Periods are also used for abbreviations.
+* **comma**
+  * The comma is the only punctuation mark that does not announce it's purpose upon arrival. You have to go past the comma to determine the function.
+  * The comma is the most common punctuation mark. (Possibly used twice as much as all other punctuation marks combined.)
+  * Comma misuse may account for a quarter of all grammatical errors.
+  * It serves a larger number of functions than any other mark.
+  * There is no simple rule, nor any simple set of rules, that will make the multiple uses of the comma clear and easy.
+  * "Ask not what the comma rules demand of you but rather how you can use the comma to take better care of your reader's needs." (Gopen, 2004b, p. 231)
+  * Here is a partial list of comma uses:
+    * to distinguish nonrestrictive elements from restrictive elements
+    * to mark the boundaries of interruptive material
+    * to mark transitional material
+    * to mark contracting material
+    * to separate the members of a series
+    * to separate clauses in a sentence
+    * to separate introductory material from the main clause
+    * to separate adverbs and adjectives that together modify a single noun
+    * to mark direct address
+    * to introduce direct address after a verb that identifies the speaker
+    * to keep in order dates, addresses, numbers, and titles
 
 ### A more graphical depiction of suggested paragraph organization
 
