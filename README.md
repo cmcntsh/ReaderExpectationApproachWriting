@@ -185,7 +185,7 @@ Dr. Gopen has several bold offsets describing reader expectations scattered thro
   * Many dislike the exclamation point!
   * The exclamation point goes beyond offering syntactic and rhetorical directions to the reader and tries to imply how the reader should feel about something.
   * Other forms of artificial emphasis:
-    * <u>Underlining</u>
+    * __Underlining__
     * **boldface**
     * CAPITAL LETTERS
     * *italics*
