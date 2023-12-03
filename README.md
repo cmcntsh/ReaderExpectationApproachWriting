@@ -133,40 +133,40 @@ Dr. Gopen has several bold offsets describing reader expectations scattered thro
     * stress this clause, but also expect stress at the end of the next clause
     * Main use #1 - These two clauses are two separate clauses, each with their own point to make; but together they make a point of even greater complexity and force.
     * Secondary use #2 - It separates examples of an immediately previous statement that has ended in a colon. This is not for short, simple lists. The previous use of the semicolon is more important.
-  * **colon**
-    * What comes after the use of the colon is expected to either redefine or to exemplify that which came before it.
-    * The clause before the colon can stand on it's own as a sentence.
-    * What follows after the colon can be an independent sentence, but it will restate or redefine the first clause.
-    * Or what comes after the colon is a list of examples that, taken together, will give you a fuller way of understanding the previously stated ideas.
-    * Independent clause: Independent clause - The second clause can be capitalized or not, but Gopen encourages capitalizing it to distinguish this from a list.
-    * The colon differs from the semicolon. The semicolon suggests further expansion of the thought or a significant addition. The colon suggests the reader will hear the first thought repeated in some helpful way. Semicolon expands while colon repeats.
-    * Lists after a colon may be bullet points or numbered presented vertically. The clause before the colon should always be a full independent clause, but this grammar rule is starting to be ignored more often. Gopen discourages ignoring that rule because of the lack of a stress position at the colon. He asserts the reader will have a harder time interpreting the sentence if there is no syntactic closure at the colon. Each bullet item will receive a somewhat lower emphasis.
-    * Colons and semicolons were used a great deal more in previous centuries.
-  * **Marks to indicate interruption**
-    * All of these are loosely defined.
-    * There is a lot of variability in how each is used.
-    * **Dashes --**
-      * Gopen recommends using the double dash to preclude confusion with hyphenation.
-      * Only started being used about 300 years ago.
-      * When used once in a sentence, it is similar to the colon. It invites the reader to simultaneously separate and join the two halves of the sentence.
-      * When used as a pair, they function as parentheses or commas. They indicate an interruption in the middle of things.
-      * The colon invites the reader to maintain a constant level of intensity before and after the colon.
-      * The dash does the opposite. It raises the intensity of what follows the dash.
-    * **(Parentheses)**
-      * Parenthesis, like dashes, signal an interruption.
-      * But they signal the opposite emphasis to dashes.
-      * Parentheses lower the volume of the interruption, where dashes raise emphasis.
-      * Parentheses establish a marked difference in tone when they're used more than once in a paragraph. Multiple parenthetical statements in a paragraph can seem to speak to each other.
-      * There are no set rules on what punctuation can be used around parentheses.
-    * **Commas**
-      * Commas also signal an interruption.
-      * Unlike dashes and parentheses, commas signal an interruption in sense, but not tone. (Dashes signal an increase in tone, while parentheses signal a lowering of tone.)
-    * **[Brackets]**
-      * Unlike dashes, parentheses, or commas, square brackets indicate a change in voice.
-      * The brackets indicate that the writer is introducing his or her own voice as an author rather than the more fictional voice of the narrator.
-      * When brackets are used in a direct quotation, they indicate the original words of the quote have been changed.
-      * They can also be used inside parentheses to avoid the confusion of multiple parentheses nested within each other.
-  * **hyphen**
+* **colon**
+   * What comes after the use of the colon is expected to either redefine or to exemplify that which came before it.
+   * The clause before the colon can stand on it's own as a sentence.
+   * What follows after the colon can be an independent sentence, but it will restate or redefine the first clause.
+   * Or what comes after the colon is a list of examples that, taken together, will give you a fuller way of understanding the previously stated ideas.
+   * Independent clause: Independent clause - The second clause can be capitalized or not, but Gopen encourages capitalizing it to distinguish this from a list.
+   * The colon differs from the semicolon. The semicolon suggests further expansion of the thought or a significant addition. The colon suggests the reader will hear the first thought repeated in some helpful way. Semicolon expands while colon repeats.
+   * Lists after a colon may be bullet points or numbered presented vertically. The clause before the colon should always be a full independent clause, but this grammar rule is starting to be ignored more often. Gopen discourages ignoring that rule because of the lack of a stress position at the colon. He asserts the reader will have a harder time interpreting the sentence if there is no syntactic closure at the colon. Each bullet item will receive a somewhat lower emphasis.
+   * Colons and semicolons were used a great deal more in previous centuries.
+* **Marks to indicate interruption**
+   * All of these are loosely defined.
+   * There is a lot of variability in how each is used.
+   * **Dashes --**
+     * Gopen recommends using the double dash to preclude confusion with hyphenation.
+     * Only started being used about 300 years ago.
+     * When used once in a sentence, it is similar to the colon. It invites the reader to simultaneously separate and join the two halves of the sentence.
+     * When used as a pair, they function as parentheses or commas. They indicate an interruption in the middle of things.
+     * The colon invites the reader to maintain a constant level of intensity before and after the colon.
+     * The dash does the opposite. It raises the intensity of what follows the dash.
+   * **(Parentheses)**
+     * Parenthesis, like dashes, signal an interruption.
+     * But they signal the opposite emphasis to dashes.
+     * Parentheses lower the volume of the interruption, where dashes raise emphasis.
+     * Parentheses establish a marked difference in tone when they're used more than once in a paragraph. Multiple parenthetical statements in a paragraph can seem to speak to each other.
+     * There are no set rules on what punctuation can be used around parentheses.
+   * **Commas**
+     * Commas also signal an interruption.
+     * Unlike dashes and parentheses, commas signal an interruption in sense, but not tone. (Dashes signal an increase in tone, while parentheses signal a lowering of tone.)
+   * **[Brackets]**
+     * Unlike dashes, parentheses, or commas, square brackets indicate a change in voice.
+     * The brackets indicate that the writer is introducing his or her own voice as an author rather than the more fictional voice of the narrator.
+     * When brackets are used in a direct quotation, they indicate the original words of the quote have been changed.
+     * They can also be used inside parentheses to avoid the confusion of multiple parentheses nested within each other.
+* **hyphen**
 
 ### A more graphical depiction of suggested paragraph organization
 
