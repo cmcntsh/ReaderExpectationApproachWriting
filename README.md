@@ -185,7 +185,7 @@ Dr. Gopen has several bold offsets describing reader expectations scattered thro
   * Many dislike the exclamation point!
   * The exclamation point goes beyond offering syntactic and rhetorical directions to the reader and tries to imply how the reader should feel about something.
   * Other forms of artificial emphasis:
-    * Underlining (There's not a good way to do that in Markdown because it's confused with hyperlinks.)
+    * <ins>Underlining</ins> (There's not a good way to do that in Markdown because it's confused with hyperlinks.)
     * **boldface**
     * CAPITAL LETTERS
     * *italics*
