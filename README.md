@@ -265,6 +265,8 @@ Last paragraph in a paper:
 [Discussion can be short or long]  
 [Expected point]  
 
+<p align="center">centered text</p>
+
 ## Preface
 
 * Meaning comes from context.
