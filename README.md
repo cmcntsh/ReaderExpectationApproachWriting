@@ -265,7 +265,10 @@ Last paragraph in a paper:
 [Discussion can be short or long]  
 [Expected point]  
 
-<p align="center">centered text</p>
+<p align="center">********************</p>
+<p align="center">End of Summary Section</p>
+<p align="center">Below are just notes from sections of the book.</p>
+<p align="center">********************</p>
 
 ## Preface
 
