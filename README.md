@@ -189,6 +189,7 @@ Dr. Gopen has several bold offsets describing reader expectations scattered thro
     * **boldface**
     * CAPITAL LETTERS
     * *italics*
+    * <ins>***ANY COMBINATION***</ins>
   * There are two main times to use artificial emphasis:
     * Add emphasis when no natural way is available.
     * When the writer needs to restructure the sentence to add emphasis in a better way and hasn't thought of how to do that yet. (Use of artificial emphasis is discouraged.)
